@@ -60,3 +60,6 @@ public class Main {
         System.out.println("Subtotal: " + subtotal);
     }
 }
+/*
+Я использую список, так как в данном задании не важен порядок размещения элементов.
+ */
